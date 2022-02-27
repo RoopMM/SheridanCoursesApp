@@ -18,3 +18,10 @@ Current Features:
 
 <img width="507" alt="Screen Shot 2022-02-25 at 10 55 56 PM" src="https://user-images.githubusercontent.com/74334552/155828278-40c3b462-a8f5-46fc-a6bd-b4c04a57310c.png">
 <img width="486" alt="Screen Shot 2022-02-25 at 10 56 13 PM" src="https://user-images.githubusercontent.com/74334552/155828294-9ee93276-29f7-4313-9ef3-a66895b9bfe7.png">
+
+Desirable Future Features:
+1. Video or audio call with course members
+2. Online Lectures
+3. Lecture Recording
+4. Track course/class Attendance
+5. Practice Quizzes for tests
